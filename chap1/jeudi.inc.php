@@ -1,0 +1,15 @@
+<h6 id="jeudi"> JEUDI 3 Ddcembre </h6>
+ <h1> Le Seigneur a repondu a Job </h1>
+    <p id="pseudo"> <B> Lisez </B> Job 38 . <B> Qu'est-ce que cela nous apprend sur Dieu, non seulement en tant <br/> Createur mais aussi en tant que Soutient de toute vie? Comment cette verite importante <br/> devrait-elle infkuencer notre comprehension des arts  et des sciences </B> </p>
+    <br/>
+    <p id="pseudo"> "<em> On enseigne communement que la matiere possede un pouvoir vital, une energie inherante,des <br/> proprietes qui lui sont propres.De cette facon, les operations de la nature se derouleraient en <br/> harmonie avec des lois fixes que Dieu Lui-meme ne peut violer.Cette fausse science n'est nullement <br/> approuvee par la parole de Dieu. La nature est la Servante de Son Createur...La nature revele une <br/> intelligence, une presence, une energie active qui operent au sein de ses lois et par elles, et <br/> temoignent de l'activite continue au Pere et du Fils.Jesus dit: Mon pere travaille present, et <br/> je travaille, Moi aussi.Jean5.17. </em>"-Ellen G.White,<em> Patriarches et prophetes,p.91.1 </B> </em> </p>
+    <br/>
+    <p id="pseudo"> Malheureusement, comme nous l'avons deja dit, unje grande partie de la science travaille sur des <br/> presupposes athees et materiamostes.Cela signifit donc qu'un scientifique pourrait fixer quelque <br/> chose de la plus grande beaute, de la plus grande complexite, et pourrait pretendre que cela est <br/> venu par hazard, sans aucune prevoyance ni attention. C'est d'ailleurs ce que la science ne cesse de <br/> pretendre. La vie sur terre, dans toute sa beaute et sa complexite,des papillons humains, est <br/> expliquee comme n'etant rein d'autre que le resultat de produits chimiques qui, il ya des milliards <br/> d'annees, se sont transformes par hazard  en une vie simple qui, par mutation aleatoire et selection <br/> naturelle, a evolue en tout ce qui vit, bouge et respire aujourd'hui. </p>
+    <br/>
+    <p id="pseudo"> La science, telle qu'elle est aujourd'hui constituee, soutient que l'idee meme d'un Createur surnaturel <br/> est "<em> non scientifique </em>", car elle ne peut pas etre testee scientifiquement, et c'set donc une notion <br/> que la science ne peut traiter. Cette presupposition n'est pas quelque chose que la science elle-<br/> meme enseigne(en fait, la science semblerait enseigner le contraire: toute la beaute et la complexite <br/> du monde designent en effet un Createur), mais c'est, au contraire, une position philosophique <br/> imposee a la discipline par les scientifiques eux-memes. </p>
+    <br/>
+    <p id="pseudo"> Le probleme, cependant, est que l'Ecriture enseigne que Dieu n'a pas seulement cree tout, mais <br/> qu'Il soutient aussi tout. Cela signifie que toute veritable education chretienne dans le domaine des <br/> sciences devrait fonctionner a partir d'hypotheses radicalement differentes de ce que la science en <br/> general pretend. </p>
+    <br/>
+    <p id="pseudo"> Inevitablement, des affrontements se produiront, surtout en ce qui concerne les origines. </p>
+    <br/>
+    <hr/>
