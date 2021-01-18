@@ -1,0 +1,3 @@
+Le fichier ne contient que du code HTML, il peut donc êtreenregistré av.ec l’extension .htm.
+ Il peut cependant être enregistréavec l’extension .php mais cela est inutile.
+ le traitement desdonnées saisies est fait par le code PHP du fichier externe« ajout.php »

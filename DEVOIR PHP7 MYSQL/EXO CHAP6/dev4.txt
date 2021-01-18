@@ -1,0 +1,4 @@
+
+Première solution : l’attribut action de l’élément <form> doit contenir le nom du fichier qui crée le formulaire.
+Deuxième solution : l’attribut action de l’élément <form> contient le code suivant :
+action= "<?= $_SERVER["PHP_SELF"] ?>"

@@ -1,0 +1,3 @@
+$x vaut : 9E3  (soit 9000 bien sur)
+$y vaut : 7
+$z vaut : 9000
